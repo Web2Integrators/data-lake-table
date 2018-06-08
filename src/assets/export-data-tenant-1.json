@@ -1,0 +1,6001 @@
+{
+	"records": [{
+			"data": {
+				"ProjDepth": 6800,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 12 C NE NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6810,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199690000",
+				"OperatorName": "HAMILTON & ARMOUR",
+				"LeaseName": "H HOWRD PTTRSON ETL",
+				"CompDate": "1955-03-24T00:00:00",
+				"ElevationKb": 286,
+				"LLSrce": "IH",
+				"CurrentOperator": "HAMILTON & ARMOUR",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "KB",
+				"DrillerTd": 6812,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1955-03-05T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 286,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1955-03-15T00:00:00",
+				"UWI": "01003000140000",
+				"API": "01003000140000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 277,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.157184496,
+					"longitude": -87.617788976
+				}
+			},
+			"id": "tenant1:doc:3daad9d1df3740218a274ae7f376e096",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 10000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2S 1E 13",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "SMACKOVER",
+				"RegulatoryAPI": "01203200220000",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "NORPHLET",
+				"LeaseName": "MIDDLE RIVER UNIT",
+				"CompDate": "1977-05-21T00:00:00",
+				"ElevationKb": 70,
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PRODUCTION COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 18494,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1977-01-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 70,
+				"LastActivityDate": "2015-06-05T00:00:00",
+				"SpudDate": "1977-02-01T00:00:00",
+				"UWI": "01003200220000",
+				"API": "01003200220000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"LatLong": {
+					"latitude": 30.877406924,
+					"longitude": -87.932812506
+				}
+			},
+			"id": "tenant1:doc:814a640dc3664a0ea9bcd0de2ae5bfce",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "17N 15E 33 C NE SW",
+				"Basin": "SOUTH GEORGIA BASIN",
+				"LogTD": 1250,
+				"FormatTDName": "TUSCALOOSA",
+				"RegulatoryAPI": "01001000010000",
+				"OperatorName": "MODERN DRILLING INCORPORATED",
+				"Target": "UNRPTD",
+				"LeaseName": "ALEXANDER CHARLES A",
+				"CompDate": "1956-04-06T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "MODERN DRILLING INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"RefElev": 273,
+				"ElevationCode": "DF",
+				"DrillerTd": 1250,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1956-03-19T00:00:00",
+				"CountyName": "AUTAUGA",
+				"Footage": "1980 FSL 1980 FWL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1956-03-29T00:00:00",
+				"UWI": "01001200000000",
+				"API": "01001200000000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 32.406402588,
+					"longitude": -86.565592762
+				}
+			},
+			"id": "tenant1:doc:a4b30ccfede14c90bb323197e32c59c6",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 16500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 28 NE NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 15942,
+				"FormatTDName": "NORPHLET",
+				"OperatorName": "WOODS PETROLEUM-ANDERSON INT",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "CONTAINER CORP",
+				"ElevationKb": 281,
+				"LLSrce": "IH",
+				"CurrentOperator": "WOODS PETROLEUM-ANDERSON INT",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"RefElev": 281,
+				"ElevationCode": "KB",
+				"DrillerTd": 16762,
+				"LaheeClass": "WF",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FNL 660 FEL CONGRESS SECTION",
+				"OldestAgePenetratedCode": 553,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003200080000",
+				"API": "01003200080000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.113667795,
+					"longitude": -87.668367051
+				}
+			},
+			"id": "tenant1:doc:e7b16757acf249c68fcc46f367f68c61",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 5500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 10 CSESE",
+				"IPProdFormName": "MASSIVE /SD/ TUSCALOOSA/",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5492,
+				"InitialClass": "D",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199720000",
+				"OperatorName": "STANLEY RALPH",
+				"ProjForm": "MASSIVE /SD/ TUSCALOOSA/",
+				"Target": "OIL",
+				"LeaseName": "OSWELL WILLIAM H AND CHARLES O",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5500,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 660 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003199720000",
+				"API": "01003199720000",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.232068828,
+					"longitude": -87.854924969
+				}
+			},
+			"id": "tenant1:doc:3678e022469b4f1aa47d16d065e571a2",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 17500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "1N 4E 28 NE NE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "UNKNOWN",
+				"OperatorName": "MELLON CREEK",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "THOMAS W F",
+				"CompDate": "1972-06-12T00:00:00",
+				"ElevationKb": 321,
+				"LLSrce": "IH",
+				"CurrentOperator": "MELLON CREEK",
+				"FinalStatusCode": "0",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 17009,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1972-03-10T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "800 FNL 660 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1972-03-20T00:00:00",
+				"UWI": "01003200100000",
+				"API": "01003200100000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 297,
+				"RefElev": 321,
+				"LatLong": {
+					"latitude": 31.02408907,
+					"longitude": -87.668175584
+				}
+			},
+			"id": "tenant1:doc:a48cc7829aaa44339b2814d29f887ffe",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 5390,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 5,
+				"Location": "3N 2E 10 CSESE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "IWX",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"RegulatoryAPI": "01003199720001",
+				"OperatorName": "SOUTH CARLTON OPERATING CO LLC",
+				"ProjForm": "TUSCALOOSA LOWER",
+				"Target": "INJ",
+				"LeaseName": "OSWELL CHARLES O ETAL UNIT 11-13",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "9",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5500,
+				"LaheeClass": "IW",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 660 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003199720005",
+				"API": "01003199720005",
+				"FieldName": "CARLTON SOUTH",
+				"FinalStatus": "W-INJW",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.232068828,
+					"longitude": -87.854924969
+				}
+			},
+			"id": "tenant1:doc:2132ca1e54bf46d0852efeeed12156a3",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 17200,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 2E 49",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "LOUANN /SALT/",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "SCOTT PAPER CO",
+				"CompDate": "1972-12-19T00:00:00",
+				"ElevationKb": 34.5,
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PROD CO",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "LOWER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 16975,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1972-07-31T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 34.5,
+				"LastActivityDate": "2017-04-04T00:00:00",
+				"SpudDate": "1972-08-10T00:00:00",
+				"UWI": "01003200130000",
+				"API": "01003200130000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 12.2,
+				"LatLong": {
+					"latitude": 31.153891167,
+					"longitude": -87.863846267
+				}
+			},
+			"id": "tenant1:doc:1a8ddf63b4e547c0b3d04bc02c3d1e2b",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "2N 2E 36 C SW SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6926,
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"RegulatoryAPI": "01003199520000",
+				"OperatorName": "NEILSON & WALKER",
+				"ProjForm": "CRETACEOUS LOWER",
+				"LeaseName": "C H BRYARS",
+				"CompDate": "1950-09-13T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "NEILSON & WALKER",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"RefElev": 137,
+				"ElevationCode": "DF",
+				"DrillerTd": 6929,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1950-06-26T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 1980 FEL CONGRESS SECTION",
+				"LastActivityDate": "2015-10-06T00:00:00",
+				"SpudDate": "1950-08-21T00:00:00",
+				"UWI": "01003000270000",
+				"API": "01003000270000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.085686776,
+					"longitude": -87.825737447
+				}
+			},
+			"id": "tenant1:doc:bac63c187f6044ed95577c86c3540d84",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 14,
+				"Location": "8S 4E 22 SW SW NE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "MIOCENE",
+				"RegulatoryAPI": "01003010030000",
+				"OperatorName": "BALDWIN COMPANY OIL & DEVLOPMENT",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "FITZHUGH",
+				"CompDate": "1909-12-31T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "BALDWIN COMPANY OIL & DEVLOPMENT",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 1513,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1909-07-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "2500 FNL 2150 FEL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1909-08-01T00:00:00",
+				"UWI": "01003000010000",
+				"API": "01003000010000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-OG",
+				"RefElev": 5,
+				"LatLong": {
+					"latitude": 30.334065609,
+					"longitude": -87.656171469
+				}
+			},
+			"id": "tenant1:doc:225510ca73194fe1b486521f4006878b",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 2E 49",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6129,
+				"FormatTDName": "PILOT /SD/",
+				"RegulatoryAPI": "01003199600000",
+				"OperatorName": "LARUE I P & FRED",
+				"LeaseName": "T T TURNSTALL",
+				"CompDate": "1953-05-07T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "LARUE I P & FRED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 6135,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1953-04-11T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 34,
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1953-04-21T00:00:00",
+				"UWI": "01003000220000",
+				"API": "01003000220000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.152951303,
+					"longitude": -87.856586357
+				}
+			},
+			"id": "tenant1:doc:b325613e71d843ae98838938e5497c56",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8700,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "1N 2E 43 W2 SW SW",
+				"IPProdFormName": "PALUXY",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8717,
+				"InitialClass": "D",
+				"FieldName": "TENSAW LAKE",
+				"RegulatoryAPI": "01003199970000",
+				"OperatorName": "CHEVRON U S A INCORPORATED",
+				"LeaseName": "J A BRYARS",
+				"ElevationKb": 33.4,
+				"LLSrce": "IH",
+				"CurrentOperator": "CHEVRON U S A INCORPORATED",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 8715,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 621 FWL CONGRESS SECTION",
+				"OldestAgePenetratedCode": 602,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000590000",
+				"API": "01003000590000",
+				"FormatTDName": "PALUXY",
+				"FinalStatus": "OIL",
+				"ElevationGr": 19,
+				"RefElev": 33.4,
+				"LatLong": {
+					"latitude": 31.081145337,
+					"longitude": -87.875510422
+				}
+			},
+			"id": "tenant1:doc:d225f192138b4ffea8b8537faba1796a",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 18800,
+				"WellNum": "7-6",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 4E 7 NW SE NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "SMACKOVER",
+				"OperatorName": "EXXON CORPORATION",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "U S STEEL CORP",
+				"CompDate": "1974-03-04T00:00:00",
+				"ElevationKb": 201,
+				"LLSrce": "IH",
+				"CurrentOperator": "EXXON CORPORATION",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 18481,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1973-04-14T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1654 FNL 1719 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1973-04-24T00:00:00",
+				"UWI": "01003200160000",
+				"API": "01003200160000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 175,
+				"RefElev": 201,
+				"LatLong": {
+					"latitude": 30.715899492,
+					"longitude": -87.710765386
+				}
+			},
+			"id": "tenant1:doc:44e8a5d8680e47308800d8c18403de9a",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2S 4E 28 NW NE SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5027,
+				"FormatTDName": "SELMA",
+				"RegulatoryAPI": "01003010060000",
+				"OperatorName": "MCCURRY MRS MAMMI SMITH",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "SOUTHERN KRAFT CO",
+				"CompDate": "1935-07-31T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "MCCURRY MRS MAMMI SMITH",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "D",
+				"RefElev": 178,
+				"ElevationCode": "DF",
+				"DrillerTd": 5027,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1935-06-03T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "200 FNL 200 FWL CONGRESS QTR QTR",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1935-06-13T00:00:00",
+				"UWI": "01003000260000",
+				"API": "01003000260000",
+				"FieldName": "UNNAMED",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.844291928,
+					"longitude": -87.679704038
+				}
+			},
+			"id": "tenant1:doc:3e69181d41e24c878c757d1c453e712a",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "6S 2E 22 C SE SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8455,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199790000",
+				"OperatorName": "TEMPLE A R",
+				"LeaseName": "FAIRHOPE SINGLE TAX",
+				"CompDate": "1957-11-27T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "TEMPLE A R",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 8454,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1957-10-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 87,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1957-11-01T00:00:00",
+				"UWI": "01003000480000",
+				"API": "01003000480000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.503414186,
+					"longitude": -87.854558782
+				}
+			},
+			"id": "tenant1:doc:46ff238557794c52906263f046618c5a",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 8700,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "1N 2E 46 NW NW SW",
+				"IPProdFormName": "WASHITA-FREDERICKSBURG LM",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8733,
+				"InitialClass": "D",
+				"FieldName": "TENSAW LAKE",
+				"RegulatoryAPI": "01003199950000",
+				"OperatorName": "CALIFORNIA OIL COMPANY",
+				"Target": "OIL",
+				"LeaseName": "SMITH R L",
+				"ElevationKb": 115,
+				"LLSrce": "IH",
+				"CurrentOperator": "CHEVRON U S A INCORPORATED",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 8720,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "3194 FNL 465 FWL CONGRESS SECTION",
+				"OldestAgePenetratedCode": 602,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000570000",
+				"API": "01003000570000",
+				"FormatTDName": "PALUXY",
+				"FinalStatus": "OIL",
+				"RefElev": 115,
+				"LatLong": {
+					"latitude": 31.067456941,
+					"longitude": -87.85499853
+				}
+			},
+			"id": "tenant1:doc:fffaab4691bb42b194270b7c31c6e6ef",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8700,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "2N 2E 53",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8703,
+				"FormatTDName": "PALUXY",
+				"RegulatoryAPI": "01003199960000",
+				"OperatorName": "LEE R A INCORPORATED",
+				"ProjForm": "PALUXY",
+				"LeaseName": "NELSON HEIRS ETAL",
+				"CompDate": "1966-05-19T00:00:00",
+				"ElevationKb": 25,
+				"LLSrce": "IH",
+				"CurrentOperator": "LEE R A INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "D",
+				"ElevationCode": "KB",
+				"DrillerTd": 8700,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1966-04-21T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 25,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1966-05-01T00:00:00",
+				"UWI": "01003000560000",
+				"API": "01003000560000",
+				"FieldName": "TENSAW LAKE",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.085398984,
+					"longitude": -87.861897636
+				}
+			},
+			"id": "tenant1:doc:5b8707f8bab14ae288303d1c90b07223",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "9S 1E 1",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FormatTDName": "MIOCENE",
+				"RegulatoryAPI": "01003010070000",
+				"OperatorName": "DANCIGER OIL & REFINING CO & SO PROD CO",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "US GVT FRT MRGN RSV",
+				"CompDate": "1935-12-30T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "DANCIGER OIL & REFINING CO & SO PROD CO",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 2953,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1935-04-16T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 11,
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1935-04-26T00:00:00",
+				"UWI": "01003000110000",
+				"API": "01003000110000",
+				"FieldName": "UNNAMED",
+				"FinalStatus": "D&A",
+				"LatLong": {
+					"latitude": 30.230356235,
+					"longitude": -87.974509567
+				}
+			},
+			"id": "tenant1:doc:d8a252e925274bf4a76aed241b06d499",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 10000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "1N 1E 43",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 10008,
+				"FormatTDName": "WASHITA-FREDERICKSBURG LM",
+				"RegulatoryAPI": "01003199540000",
+				"OperatorName": "GULF OIL CORPORATION",
+				"LeaseName": "B D SIMPSON ETAL",
+				"CompDate": "1951-01-15T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "GULF OIL CORPORATION",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 10008,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1950-11-04T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 24,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1950-11-14T00:00:00",
+				"UWI": "01003000520000",
+				"API": "01003000520000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"ElevationGr": 11,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.027839554,
+					"longitude": -88.009336648
+				}
+			},
+			"id": "tenant1:doc:72c93f15791f4af3a1c3edfdf6a195d2",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 7500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 12,
+				"Location": "1S 2E 12 C S2 SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7504,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199640000",
+				"OperatorName": "UNION PRODUCING COMPANY",
+				"LeaseName": "MAY",
+				"CompDate": "1954-03-20T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "UNION PRODUCING COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 7503,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1954-02-17T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 135,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1954-02-27T00:00:00",
+				"UWI": "01003000530000",
+				"API": "01003000530000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-G",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.97034673,
+					"longitude": -87.82324304
+				}
+			},
+			"id": "tenant1:doc:9152b1a82dd945998a6f540f0b20fb32",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 17000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 3E 25 SE SE NE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "COTTON VALLEY /GROUP/",
+				"OperatorName": "SON OIL",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "BROWN & SONS ETAL",
+				"CompDate": "1973-02-19T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SON OIL",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 16522,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1972-11-25T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "350 FSL 350 FEL CONGRESS QTR",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1972-12-05T00:00:00",
+				"UWI": "01003200150000",
+				"API": "01003200150000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"RefElev": 196,
+				"LatLong": {
+					"latitude": 30.670269641,
+					"longitude": -87.717310905
+				}
+			},
+			"id": "tenant1:doc:af884bdf31204adcb9de880cfaf13510",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 5500,
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 10 C SW SE",
+				"IPProdFormName": "MASSIVE /SD/ TUSCALOOSA/",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5484,
+				"InitialClass": "D",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199730000",
+				"OperatorName": "STANLEY RALPH",
+				"Target": "UNRPTD",
+				"LeaseName": "WH&CO OSWELL-ST-ALA",
+				"ElevationKb": 30,
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 5482,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "SPOT ONLY",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000420000",
+				"API": "01003000420000",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL",
+				"ElevationGr": 19,
+				"RefElev": 30,
+				"LatLong": {
+					"latitude": 31.232032376,
+					"longitude": -87.85918804
+				}
+			},
+			"id": "tenant1:doc:885dfea237704a6092523dc840c75afc",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 7000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2S 4E 4 E2 NE NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7499,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199740000",
+				"OperatorName": "SUN OIL COMPANY",
+				"LeaseName": "INTERNATIONAL PAPER",
+				"CompDate": "1957-03-18T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SUN OIL COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"RefElev": 157,
+				"ElevationCode": "DF",
+				"DrillerTd": 7504,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1957-02-17T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FNL 517 FEL CONGRESS QTR",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1957-02-27T00:00:00",
+				"UWI": "01003000450000",
+				"API": "01003000450000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.908727691,
+					"longitude": -87.677698312
+				}
+			},
+			"id": "tenant1:doc:a73e019994514a7aaf5a0ba3d8e6fb70",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 2000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 1,
+				"Location": "7S 4E 31 SE NE SW",
+				"IPProdFormName": "MIOCENE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FieldName": "FOLEY",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "MIOCENE",
+				"LeaseName": "FOLEY DAIRY 31-11",
+				"CompDate": "1981-01-07T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PRODUCTION COMPANY",
+				"FinalStatusCode": "2",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 2021,
+				"LaheeClass": "DG",
+				"PermitLicenseDate": "1980-07-08T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1750 FSL 2341 FWL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1980-07-18T00:00:00",
+				"UWI": "01003200350000",
+				"API": "01003200350000",
+				"FormatTDName": "MIOCENE",
+				"FinalStatus": "GAS",
+				"RefElev": 8,
+				"LatLong": {
+					"latitude": 30.389440029,
+					"longitude": -87.709796387
+				}
+			},
+			"id": "tenant1:doc:60c6f29b47644475a8c91aa00286d9b3",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 10 CSESE",
+				"IPProdFormName": "PILOT MASSIVE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D X",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199720000",
+				"OperatorName": "SOUTH CARLTON OPERATING CO LLC",
+				"ProjForm": "PILOT MASSIVE",
+				"Target": "OIL",
+				"LeaseName": "OSWELL WILLIAM H AND CHARLES O",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5500,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 660 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003199720004",
+				"API": "01003199720004",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL-WO",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.232068828,
+					"longitude": -87.854924969
+				}
+			},
+			"id": "tenant1:doc:34dfda1a70514294bc6091a31b973140",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 27 C NW SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6512,
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"RegulatoryAPI": "01003199510000",
+				"OperatorName": "CROW DAVID & BORDEN S",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "CARNEY MILL CO",
+				"CompDate": "1950-07-19T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "CROW DAVID & BORDEN S",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 6509,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1950-06-14T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 281,
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1950-06-24T00:00:00",
+				"UWI": "01003000030000",
+				"API": "01003000030000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.106309874,
+					"longitude": -87.664182037
+				}
+			},
+			"id": "tenant1:doc:ab9f21cb508242d5a8c32fa75c8a34fa",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 9000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "1N 2E 46 SW SW NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 9010,
+				"FormatTDName": "PALUXY",
+				"RegulatoryAPI": "01003199920000",
+				"OperatorName": "PRUET CHESLEY DRILLING COMPANY",
+				"LeaseName": "BRYERS",
+				"CompDate": "1965-05-20T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "PRUET CHESLEY DRILLING COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"RefElev": 133,
+				"ElevationCode": "DF",
+				"DrillerTd": 9010,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1965-04-07T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "2103 FNL 3276 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1965-04-17T00:00:00",
+				"UWI": "01003000360000",
+				"API": "01003000360000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.07059064,
+					"longitude": -87.846104895
+				}
+			},
+			"id": "tenant1:doc:e7741952c625418dafdcf230c49b1aae",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 18300,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3S 3E 28 SE NW SE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "NORPHLET",
+				"OperatorName": "TEXACO INCORPORATED",
+				"ProjForm": "NORPHLET",
+				"LeaseName": "W P BROWN & SONS",
+				"CompDate": "1975-08-18T00:00:00",
+				"ElevationKb": 192,
+				"LLSrce": "IH",
+				"CurrentOperator": "TEXACO INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 18412,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1975-03-08T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1671 FSL 1883 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1975-03-18T00:00:00",
+				"UWI": "01003200200000",
+				"API": "01003200200000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 162,
+				"RefElev": 192,
+				"LatLong": {
+					"latitude": 30.75404749,
+					"longitude": -87.773646851
+				}
+			},
+			"id": "tenant1:doc:6e73745ee5ca48f3904ba6cc06eb267c",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 13500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 1E 55 C SE SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 13524,
+				"FormatTDName": "HOSSTON",
+				"RegulatoryAPI": "01003199890000",
+				"OperatorName": "PLACID OIL COMPANY",
+				"LeaseName": "MEAHER",
+				"CompDate": "1963-08-31T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "PLACID OIL COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COAHUILAN",
+				"InitialClass": "WF",
+				"RefElev": 16,
+				"ElevationCode": "DF",
+				"DrillerTd": 13512,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1963-07-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 660 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1963-07-22T00:00:00",
+				"UWI": "01003000350000",
+				"API": "01003000350000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.087373962,
+					"longitude": -87.922797236
+				}
+			},
+			"id": "tenant1:doc:bb8e2b0de6b040c19261032506b3eb1c",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 5289,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 10 CSESE",
+				"IPProdFormName": "TUSCALOOSA LOWER",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D X",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199720000",
+				"OperatorName": "LADD PETROLEUM CORPORATION",
+				"ProjForm": "TUSCALOOSA LOWER",
+				"Target": "OIL",
+				"LeaseName": "OSWELL WILLIAM H AND CHARLES O",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5500,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 660 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003199720003",
+				"API": "01003199720003",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL-WO",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.232068828,
+					"longitude": -87.854924969
+				}
+			},
+			"id": "tenant1:doc:26bbab0e55164b668f715a622163f8eb",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 16500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3N 4E 22 SE NW NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 15538,
+				"FormatTDName": "NORPHLET",
+				"OperatorName": "HUNT NELSON BUNKER TRUST ESTATE",
+				"ProjForm": "NORPHLET",
+				"LeaseName": "ST REGIS 22-2",
+				"CompDate": "1975-02-09T00:00:00",
+				"ElevationKb": 223,
+				"LLSrce": "IH",
+				"CurrentOperator": "HUNT NLSN BNKR TR ES",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"RefElev": 223,
+				"ElevationCode": "KB",
+				"DrillerTd": 15604,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1974-12-11T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "990 FNL 990 FWL CONGRESS QTR",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1974-12-21T00:00:00",
+				"UWI": "01003200180000",
+				"API": "01003200180000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.214346177,
+					"longitude": -87.654758871
+				}
+			},
+			"id": "tenant1:doc:3801307508904c5082f9079e9687637a",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 20000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "7S 5E 16 NE SW NE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "SALT",
+				"OperatorName": "GETTY OIL COMPANY",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "WOERNER E J 16-7",
+				"CompDate": "1981-01-15T00:00:00",
+				"ElevationKb": 90,
+				"LLSrce": "IH",
+				"CurrentOperator": "GETTY OIL COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "LOWER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 19992,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1980-07-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1500 FNL 1600 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1980-08-01T00:00:00",
+				"UWI": "01003200330000",
+				"API": "01003200330000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 59,
+				"RefElev": 90,
+				"LatLong": {
+					"latitude": 30.439533234,
+					"longitude": -87.569530502
+				}
+			},
+			"id": "tenant1:doc:0cbbd591b6574c48b3642cd40ad32205",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 19000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 6E 17 SE NE NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "HAYNESVILLE",
+				"OperatorName": "WATSON OIL CORPORATION",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "INTERNATIONAL PAPER",
+				"CompDate": "1972-08-30T00:00:00",
+				"ElevationKb": 144,
+				"LLSrce": "IH",
+				"CurrentOperator": "WATSON OIL CORP",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 17606,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1972-04-23T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "664 FNL 1996 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-30T00:00:00",
+				"SpudDate": "1972-05-03T00:00:00",
+				"UWI": "01003200110000",
+				"API": "01003200110000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"RefElev": 144,
+				"LatLong": {
+					"latitude": 30.704551667,
+					"longitude": -87.48980216
+				}
+			},
+			"id": "tenant1:doc:32c54d3624ae4d32b0281fa3bf3dba38",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2S 3E 16 NW NE NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FormatTDName": "EOCENE",
+				"OperatorName": "BAY MINNETTE DEV",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "BAY MINNETTE",
+				"CompDate": "1927-08-03T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "BAY MINNETTE DEV",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY EOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "GR",
+				"DrillerTd": 1400,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1927-07-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "580 FNL 1490 FWL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1927-08-01T00:00:00",
+				"UWI": "01003000060000",
+				"API": "01003000060000",
+				"FieldName": "UNNAMED",
+				"FinalStatus": "D&A",
+				"ElevationGr": 100,
+				"RefElev": 100,
+				"LatLong": {
+					"latitude": 30.879304848,
+					"longitude": -87.780145361
+				}
+			},
+			"id": "tenant1:doc:52f457ac9dff41aebd102d1ea889cec5",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 21000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "7S 4E 32 NW SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5172,
+				"FormatTDName": "CHALK /BASE LINE ONLY/",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "ROY A AMOS 32-12",
+				"CompDate": "1978-08-28T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PRODUCTION COMPANY",
+				"FinalStatusCode": "8",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"RefElev": 68,
+				"ElevationCode": "GR",
+				"DrillerTd": 5172,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1978-08-01T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1980 FSL 1120 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1978-08-11T00:00:00",
+				"UWI": "01003200250000",
+				"API": "01003200250000",
+				"FieldName": "FOLEY",
+				"FinalStatus": "J&A",
+				"ElevationGr": 68,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.390018677,
+					"longitude": -87.696698917
+				}
+			},
+			"id": "tenant1:doc:68371b1638dc4c19afc9b98f169761a4",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 3E 5 C SW SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7998,
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"RegulatoryAPI": "01003199610000",
+				"OperatorName": "PAN AMERICAN",
+				"LeaseName": "U S STEEL CORP",
+				"CompDate": "1953-06-14T00:00:00",
+				"ElevationKb": 224,
+				"LLSrce": "IH",
+				"CurrentOperator": "PAN AMERICAN",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"ElevationCode": "KB",
+				"DrillerTd": 8000,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1953-04-30T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 224,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1953-05-10T00:00:00",
+				"UWI": "01003000550000",
+				"API": "01003000550000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 214,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.721858371,
+					"longitude": -87.799284476
+				}
+			},
+			"id": "tenant1:doc:6c305f7ecf4d4162ae85ce2ad1f0154a",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 1800,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "7S 4E 31 NW SW NE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FormatTDName": "MIOCENE",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "MIOCENE",
+				"LeaseName": "JOHN KRUPINSKI 31-7",
+				"CompDate": "1979-07-04T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PRODUCTION COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "GR",
+				"DrillerTd": 1800,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1979-06-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1661 FNL 1990 FEL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1979-06-22T00:00:00",
+				"UWI": "01003200280000",
+				"API": "01003200280000",
+				"FieldName": "UNNAMED",
+				"FinalStatus": "D&A",
+				"ElevationGr": 69,
+				"RefElev": 69,
+				"LatLong": {
+					"latitude": 30.394589005,
+					"longitude": -87.706542864
+				}
+			},
+			"id": "tenant1:doc:bacc2d253f27422cb3fa107d8164eb23",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "3",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 5E 27",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "UNKNOWN",
+				"OperatorName": "WATSON OIL CORPORATION",
+				"Target": "UNRPTD",
+				"LeaseName": "INTERNATIONAL PAPER CO",
+				"CompDate": "1974-07-18T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "WATSON OIL CORPORATION",
+				"FinalStatusCode": "0",
+				"HoleDirection": "VERTICAL",
+				"DrillerTd": 2300,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1974-06-23T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "484 FSL 2017 FEL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1974-07-03T00:00:00",
+				"UWI": "01003100020000",
+				"API": "01003100020000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 157,
+				"LatLong": {
+					"latitude": 30.663421421,
+					"longitude": -87.554078575
+				}
+			},
+			"id": "tenant1:doc:4498aaef635940358933e01011a6c02f",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 1800,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 11,
+				"Location": "7S 4E 31 NW SE SE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "MIOCENE",
+				"LeaseName": "L R BARNER UN 31-16",
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PRODUCTION COMPANY",
+				"FinalStatusCode": "A",
+				"HoleDirection": "VERTICAL",
+				"PermitLicenseDate": "1979-06-29T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "990 FSL 1026 FEL CONGRESS SECTION",
+				"LastActivityDate": "2014-04-07T00:00:00",
+				"LatLong": {
+					"latitude": 30.387301457,
+					"longitude": -87.703515409
+				},
+				"UWI": "01003200290000",
+				"API": "01003200290000",
+				"FinalStatus": "AB-LOC"
+			},
+			"id": "tenant1:doc:dfaf7f1754d942729fdfc124922bc05e",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 2400,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 1,
+				"Location": "9S 4E 7 NW SW NE",
+				"IPProdFormName": "MIOCENE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FieldName": "OYSTER BAY EAST",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "MIOCENE",
+				"LeaseName": "MEYER PROP 7-7",
+				"CompDate": "1980-05-27T00:00:00",
+				"ElevationKb": 22,
+				"LLSrce": "IH",
+				"CurrentOperator": "BAY CITY MINERALS",
+				"FinalStatusCode": "2",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 2400,
+				"LaheeClass": "WFD",
+				"PermitLicenseDate": "1980-04-08T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1900 FNL 2000 FEL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1980-04-18T00:00:00",
+				"UWI": "01003200320000",
+				"API": "01003200320000",
+				"FormatTDName": "MIOCENE",
+				"FinalStatus": "GAS",
+				"ElevationGr": 6,
+				"RefElev": 22,
+				"LatLong": {
+					"latitude": 30.277206484,
+					"longitude": -87.706412957
+				}
+			},
+			"id": "tenant1:doc:090c25c5b7a04c4f9cb9a439ce4c4f20",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 5500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 15 NE SE NW",
+				"IPProdFormName": "MASSIVE /SD/ TUSCALOOSA/",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5474,
+				"InitialClass": "D",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199550000",
+				"OperatorName": "HUMBLE OIL & SUN OIL",
+				"ProjForm": "MASSIVE /SD/ TUSCALOOSA/",
+				"LeaseName": "OSWELL C O",
+				"LLSrce": "IH",
+				"CurrentOperator": "LATEX PETROLEUM CORPORATION",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5475,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "300 FNL 300 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000190000",
+				"API": "01003000190000",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL",
+				"ElevationGr": 19,
+				"RefElev": 31,
+				"LatLong": {
+					"latitude": 31.225687514,
+					"longitude": -87.862277577
+				}
+			},
+			"id": "tenant1:doc:5d4be8324a0e4241a3632296f169b0bb",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 8 C NE NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6750,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199700000",
+				"OperatorName": "HAMILTON & ARMOUR",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "H H PATTERSON ETAL",
+				"CompDate": "1955-04-15T00:00:00",
+				"ElevationKb": 250.5,
+				"LLSrce": "IH",
+				"CurrentOperator": "HAMILTON & ARMOUR",
+				"FinalStatusCode": "8",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "KB",
+				"DrillerTd": 6760,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1955-03-18T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 250.5,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1955-03-28T00:00:00",
+				"UWI": "01003000150000",
+				"API": "01003000150000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "J&A",
+				"ElevationGr": 245,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.15736597,
+					"longitude": -87.685563976
+				}
+			},
+			"id": "tenant1:doc:2015b1839f47472d9cf19ba635cd8851",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "A",
+				"ProjDepth": 5500,
+				"WellNum": "3",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 15 NW NW NE",
+				"IPProdFormName": "TUSCALOOSA LOWER /SPEARS/",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5544,
+				"InitialClass": "D",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199860000",
+				"OperatorName": "CLARKWIN OIL CORPORATION",
+				"Target": "OIL",
+				"LeaseName": "C O & W H OSWELL",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5545,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "330 FNL 330 FWL CONGRESS QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000070000",
+				"API": "01003000070000",
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"FinalStatus": "OIL",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.229280521,
+					"longitude": -87.860247312
+				}
+			},
+			"id": "tenant1:doc:cfc13a7834e04f78ac69e704dec1a74e",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "1N 1E 1",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8009,
+				"FormatTDName": "DANTZLER",
+				"HoleDirection": "VERTICAL",
+				"OperatorName": "PLACID OIL COMPANY",
+				"LeaseName": "G R BRYANT",
+				"CompDate": "1958-11-04T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "PLACID OIL COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 8003,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1958-10-01T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 37,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1958-10-08T00:00:00",
+				"UWI": "01003000330000",
+				"API": "01003000330000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"Footage": "1980 FNL 3300 FEL CONGRESS SECTION",
+				"LatLong": {
+					"latitude": 31.08011681,
+					"longitude": -87.931243632
+				}
+			},
+			"id": "tenant1:doc:20838b057b944588a537d14450bd5df3",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 7200,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "1N 3E 18 C SW NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7106,
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"RegulatoryAPI": "01003199500000",
+				"OperatorName": "LZRV & RBILI RBT O GRUP",
+				"LeaseName": "BEN MAY",
+				"CompDate": "1950-05-16T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "LZRV & RBILI RBT O GRUP",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 7106,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1950-04-16T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 116,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1950-04-26T00:00:00",
+				"UWI": "01003000230000",
+				"API": "01003000230000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.053222233,
+					"longitude": -87.81674412
+				}
+			},
+			"id": "tenant1:doc:cbdae1077f084f4b8d74be4a1b79984b",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 17000,
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 4E 29 NW SE NW",
+				"IPProdFormName": "SMACKOVER",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FieldName": "BLACKSHER",
+				"OperatorName": "SHELL OIL COMPANY",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "WEFEL",
+				"CompDate": "1980-10-04T00:00:00",
+				"ElevationKb": 122,
+				"LLSrce": "IH",
+				"CurrentOperator": "SHELL OIL CO",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 16000,
+				"LaheeClass": "WFD",
+				"PermitLicenseDate": "1980-05-14T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1401 FNL 1358 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1980-05-24T00:00:00",
+				"UWI": "01003200340000",
+				"API": "01003200340000",
+				"FormatTDName": "SMACKOVER",
+				"FinalStatus": "OIL",
+				"RefElev": 122,
+				"LatLong": {
+					"latitude": 31.198786319,
+					"longitude": -87.695878782
+				}
+			},
+			"id": "tenant1:doc:e891b9f1370a4ae9afbcf98e4116418d",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "2N 3E 36 C SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6817,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199470000",
+				"OperatorName": "BOYSEN H K & STEBBENS J R",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "P L WILSON",
+				"CompDate": "1948-04-07T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "BOYSEN H K & STEBBENS J R",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 6815,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1948-02-24T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 121,
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1948-03-05T00:00:00",
+				"UWI": "01003000050000",
+				"API": "01003000050000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.088831657,
+					"longitude": -87.721172369
+				}
+			},
+			"id": "tenant1:doc:9c1bedc49b7d45059c681ed4c68f2c7f",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "7S 5E 13 C NE SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8050,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199780000",
+				"OperatorName": "TEMPLE A R",
+				"LeaseName": "PAUL KYZER",
+				"CompDate": "1957-12-28T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "TEMPLE A R",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 8038,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1957-11-25T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 84,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1957-12-05T00:00:00",
+				"UWI": "01003000460000",
+				"API": "01003000460000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.434523015,
+					"longitude": -87.524343332
+				}
+			},
+			"id": "tenant1:doc:e948ba0960684781893c0aa305b895fb",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8300,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 1E 32",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 9009,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199670000",
+				"OperatorName": "PLACID OIL COMPANY",
+				"Target": "UNRPTD",
+				"LeaseName": "BACON-MCMILLN VENER",
+				"CompDate": "1954-10-01T00:00:00",
+				"ElevationKb": 15,
+				"LLSrce": "IH",
+				"CurrentOperator": "PLACID OIL COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "KB",
+				"DrillerTd": 9009,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1954-08-21T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 15,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1954-08-31T00:00:00",
+				"UWI": "01003000310000",
+				"API": "01003000310000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.120680993,
+					"longitude": -87.929507872
+				}
+			},
+			"id": "tenant1:doc:fd5907de5aca497cbd0f3479e73ae67b",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 18250,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 12,
+				"Location": "3S 1E 24",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 18358,
+				"FormatTDName": "JURASSIC/SYSTEM/",
+				"OperatorName": "CHEVRON U S A INCORPORATED",
+				"ProjForm": "JURASSIC/SYSTEM/",
+				"LeaseName": "RICHARD P BAER ETAL",
+				"CompDate": "1976-05-25T00:00:00",
+				"ElevationKb": 44,
+				"LLSrce": "IH",
+				"CurrentOperator": "CHEVRON U S A INC",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"ElevationCode": "KB",
+				"DrillerTd": 18370,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1975-12-01T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 44,
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1975-12-11T00:00:00",
+				"UWI": "01003200210000",
+				"API": "01003200210000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-G",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.795110522,
+					"longitude": -87.98702734
+				}
+			},
+			"id": "tenant1:doc:e9384a10a54844129afaa13be353adc2",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 19000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 2E 1 NE SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 18570,
+				"FormatTDName": "SMACKOVER",
+				"OperatorName": "HIGHLAND RESOURCES INCORPORATED",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "US STEEL UNIT 1-11",
+				"CompDate": "1979-04-09T00:00:00",
+				"ElevationKb": 204,
+				"LLSrce": "IH",
+				"CurrentOperator": "HIGHLAND RES INC",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"RefElev": 204,
+				"ElevationCode": "KB",
+				"DrillerTd": 18580,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1978-11-16T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1980 FSL 1980 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1978-11-26T00:00:00",
+				"UWI": "01003200270000",
+				"API": "01003200270000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.725404953,
+					"longitude": -87.829025752
+				}
+			},
+			"id": "tenant1:doc:79ca74c1a8434b4baf2831af3e627ba5",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "8S 4E 22 NE SE NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FormatTDName": "CLAIBORNE",
+				"RegulatoryAPI": "01003010010000",
+				"OperatorName": "BALDWIN COMPANY OIL & DEVLOPMENT",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "THOMPSON",
+				"CompDate": "1908-01-01T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "BALDWIN COMPANY OIL & DEVLOPMENT",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY EOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 2687,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1907-12-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "174 FNL 2390 FWL CONGRESS QTR",
+				"LastActivityDate": "2015-08-20T00:00:00",
+				"SpudDate": "1908-01-01T00:00:00",
+				"UWI": "01003000020000",
+				"API": "01003000020000",
+				"FieldName": "UNNAMED",
+				"FinalStatus": "D&A",
+				"RefElev": 46,
+				"LatLong": {
+					"latitude": 30.340454206,
+					"longitude": -87.658731628
+				}
+			},
+			"id": "tenant1:doc:0415c89f54b8465c83e06ca104c85339",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8050,
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 3E 5 C NW NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7950,
+				"FormatTDName": "TUSCALOOSA",
+				"RegulatoryAPI": "01003199660000",
+				"OperatorName": "STANOLIND ET AL",
+				"LeaseName": "U S STEEL",
+				"CompDate": "1954-06-10T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "STANOLIND ET AL",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 7953,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1954-05-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 224,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1954-05-22T00:00:00",
+				"UWI": "01003000300000",
+				"API": "01003000300000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.732832787,
+					"longitude": -87.799401909
+				}
+			},
+			"id": "tenant1:doc:a4f6cb2c71024531ba88dc199279b990",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 19000,
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 6E 17 NE NW NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 18274,
+				"FormatTDName": "NORPHLET",
+				"OperatorName": "WATSON OIL CORPORATION",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "INTERNATIONAL PAPER",
+				"CompDate": "1973-02-20T00:00:00",
+				"ElevationKb": 147,
+				"LLSrce": "IH",
+				"CurrentOperator": "WATSON OIL CORP",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"RefElev": 147,
+				"ElevationCode": "KB",
+				"DrillerTd": 18273,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1972-09-25T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "480 FNL 992 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1972-10-05T00:00:00",
+				"UWI": "01003200140000",
+				"API": "01003200140000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 117,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.70504884,
+					"longitude": -87.492997612
+				}
+			},
+			"id": "tenant1:doc:b6c1ed8d204844e0908178bcf0004da5",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 13 NE NE SE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"RegulatoryAPI": "01003199900000",
+				"OperatorName": "LAGRANGE PETROLEUM COMPANY",
+				"LeaseName": "DALLAS TAYLOR ETAL",
+				"CompDate": "1963-12-09T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "LAGRANGE PETROLEUM COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 6427,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1963-11-18T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "653 FNL 653 FEL CONGRESS QTR",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1963-11-28T00:00:00",
+				"UWI": "01003000200000",
+				"API": "01003000200000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"RefElev": 312,
+				"LatLong": {
+					"latitude": 31.135010605,
+					"longitude": -87.617696448
+				}
+			},
+			"id": "tenant1:doc:050fefc14d884160aff2df950aca81e0",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "9S 1E 1 NW NW NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 2564,
+				"FormatTDName": "MIOCENE",
+				"RegulatoryAPI": "01003010050000",
+				"OperatorName": "DANCIGER OIL & REFINING CO & SO PROD CO",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "US GVT FRT MRGN RSV",
+				"CompDate": "1935-03-19T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "DANCIGER OIL & REFINING CO & SO PROD CO",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"InitialClass": "D",
+				"RefElev": 11,
+				"ElevationCode": "DF",
+				"DrillerTd": 2564,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1935-01-20T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "SPOT ONLY",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1935-01-30T00:00:00",
+				"UWI": "01003000100000",
+				"API": "01003000100000",
+				"FieldName": "UNNAMED",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.227463612,
+					"longitude": -88.005019014
+				}
+			},
+			"id": "tenant1:doc:b03d97f5adb443b0a166e92939c0caf0",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 4E 25 C SE SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7844,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199650000",
+				"OperatorName": "STANOLIND OIL",
+				"LeaseName": "U S STEEL",
+				"CompDate": "1954-05-27T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "STANOLIND OIL",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 7851,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1954-04-28T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 130,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1954-05-08T00:00:00",
+				"UWI": "01003000290000",
+				"API": "01003000290000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.664440092,
+					"longitude": -87.617430527
+				}
+			},
+			"id": "tenant1:doc:11191e979fc24610b832f326aed77eac",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 19600,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "6S 6E 32 NE SW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "JURASSIC/SYSTEM/",
+				"OperatorName": "PHILLIPS PETROLEUM COMPANY",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "INTL PAPER CO /A/",
+				"CompDate": "1977-10-10T00:00:00",
+				"ElevationKb": 73,
+				"LLSrce": "IH",
+				"CurrentOperator": "PHILLIPS PETRLM CO",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 19402,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1977-03-16T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1980 FSL 1980 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-04-04T00:00:00",
+				"SpudDate": "1977-03-26T00:00:00",
+				"UWI": "01003200230000",
+				"API": "01003200230000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 47,
+				"RefElev": 73,
+				"LatLong": {
+					"latitude": 30.478055441,
+					"longitude": -87.491003466
+				}
+			},
+			"id": "tenant1:doc:290ba890149c41cbb68da1d71185e163",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 8700,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 8,
+				"Location": "1N 2E 3",
+				"IPProdFormName": "PALUXY",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8717,
+				"FieldName": "TENSAW LAKE",
+				"RegulatoryAPI": "01003199940000",
+				"OperatorName": "LEE R A INCORPORATED",
+				"LeaseName": "SMITH ANNIE B",
+				"ElevationKb": 25,
+				"LLSrce": "IH",
+				"CurrentOperator": "LEE R A INCORPORATED",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "KB",
+				"DrillerTd": 8710,
+				"LaheeClass": "WFD",
+				"CountyName": "BALDWIN",
+				"RefElev": 25,
+				"OldestAgePenetratedCode": 602,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000580000",
+				"API": "01003000580000",
+				"FormatTDName": "PALUXY",
+				"FinalStatus": "ABD-OW",
+				"ElevationGr": 11,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.073562172,
+					"longitude": -87.859465553
+				}
+			},
+			"id": "tenant1:doc:ebf2d5d275c04fd08f6af3aff944e139",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 3E 8 C NW SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6499,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199530000",
+				"OperatorName": "CROW DAVID & BORDEN S",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "CARNEY MILL",
+				"CompDate": "1950-10-07T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "CROW DAVID & BORDEN S",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 6500,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1950-09-04T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 86,
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1950-09-14T00:00:00",
+				"UWI": "01003000040000",
+				"API": "01003000040000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 76,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.14810123,
+					"longitude": -87.798724651
+				}
+			},
+			"id": "tenant1:doc:298b85b163e64f429fd954314383f46f",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 13000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3S 1E 38",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 13007,
+				"FormatTDName": "HOSSTON",
+				"RegulatoryAPI": "01003199880000",
+				"OperatorName": "HUMBLE OIL & REFINING COMPANY",
+				"Target": "UNRPTD",
+				"LeaseName": "BAER RICHARD P 2",
+				"CompDate": "1963-02-12T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "HUMBLE OIL & REFINING COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COAHUILAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 13005,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1962-12-19T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 22,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1962-12-29T00:00:00",
+				"UWI": "01003000170000",
+				"API": "01003000170000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.755271909,
+					"longitude": -87.93578085
+				}
+			},
+			"id": "tenant1:doc:2cb1c035182041b2bc66190b5afaef0b",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3N 2E 14 C SE SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6506,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199560000",
+				"OperatorName": "HUMBLE OIL & REFINING COMPANY",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "PAUL DANNER",
+				"CompDate": "1951-07-18T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "HUMBLE OIL & REFINING COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "D",
+				"ElevationCode": "DF",
+				"DrillerTd": 6513,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1951-06-18T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 15,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1951-06-28T00:00:00",
+				"UWI": "01003000180000",
+				"API": "01003000180000",
+				"FieldName": "CARLTON SOUTH",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.217855631,
+					"longitude": -87.837873516
+				}
+			},
+			"id": "tenant1:doc:e86ea300fc974da1a7abade9fa1aa6a7",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 8750,
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "1N 2E 47",
+				"IPProdFormName": "PALUXY",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8750,
+				"InitialClass": "D",
+				"FieldName": "TENSAW LAKE",
+				"RegulatoryAPI": "01003199980000",
+				"OperatorName": "CALIFORNIA OIL COMPANY",
+				"ProjForm": "PALUXY",
+				"LeaseName": "J A BRYARS",
+				"CompDate": "1966-09-29T00:00:00",
+				"ElevationKb": 19.6,
+				"LLSrce": "IH",
+				"CurrentOperator": "CHEVRON U S A INCORPORATED",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 8750,
+				"LaheeClass": "DO",
+				"PermitLicenseDate": "1966-07-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "550 FNL 780 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1966-08-01T00:00:00",
+				"UWI": "01003000620000",
+				"API": "01003000620000",
+				"FormatTDName": "PALUXY",
+				"FinalStatus": "OIL",
+				"ElevationGr": 4,
+				"RefElev": 19.6,
+				"LatLong": {
+					"latitude": 31.074386182,
+					"longitude": -87.864192273
+				}
+			},
+			"id": "tenant1:doc:3462e6fb7c7c4528b172dde360e589f7",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "4",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3N 2E 15",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5503,
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"OperatorName": "CLARKWIN OIL CORPORATION",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "CHARLES O OSWELL",
+				"CompDate": "1969-07-15T00:00:00",
+				"ElevationKb": 25,
+				"LLSrce": "IH",
+				"CurrentOperator": "CLARKWIN OIL CORPORATION",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "D",
+				"RefElev": 25,
+				"ElevationCode": "KB",
+				"DrillerTd": 5507,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1969-06-24T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FNL 810 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1969-07-04T00:00:00",
+				"UWI": "01003200040000",
+				"API": "01003200040000",
+				"FieldName": "CARLTON SOUTH",
+				"FinalStatus": "D&A",
+				"ElevationGr": 16,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.228416034,
+					"longitude": -87.855397313
+				}
+			},
+			"id": "tenant1:doc:d5b69c3c28174769ada200b5032aa768",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 5390,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 10 CSESE",
+				"IPProdFormName": "TUSCALOOSA LOWER",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D X",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199720000",
+				"OperatorName": "STANLEY RALPH",
+				"ProjForm": "TUSCALOOSA LOWER",
+				"Target": "OIL",
+				"LeaseName": "OSWELL WILLIAM H AND CHARLES O",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5500,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 660 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003199720002",
+				"API": "01003199720002",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL-WO",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.232068828,
+					"longitude": -87.854924969
+				}
+			},
+			"id": "tenant1:doc:d26c54d50fa44337bd2289a4859b0213",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "9S 5E 9",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8007,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"OperatorName": "SOUTH BALDWIN OIL DEV",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "AMOS GARRETT",
+				"CompDate": "1952-12-03T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH BALDWIN OIL DEV",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "ES",
+				"DrillerTd": 8012,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1952-10-29T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 15,
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1952-11-08T00:00:00",
+				"UWI": "01003000390000",
+				"API": "01003000390000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.276368757,
+					"longitude": -87.573103395
+				}
+			},
+			"id": "tenant1:doc:1b616a937d96455783ca5782d018181e",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 17200,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "1N 2E 47 NW SE SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 17196,
+				"FormatTDName": "NORPHLET",
+				"OperatorName": "CHEVRON U S A INCORPORATED",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "J ARTHUR BRYARS UN",
+				"CompDate": "1972-01-03T00:00:00",
+				"ElevationKb": 46.7,
+				"LLSrce": "IH",
+				"CurrentOperator": "CHEVRON U S A INC",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"RefElev": 46.7,
+				"ElevationCode": "KB",
+				"DrillerTd": 17205,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1971-09-04T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "898 FSL 871 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1971-09-14T00:00:00",
+				"UWI": "01003200090000",
+				"API": "01003200090000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"ElevationGr": 19.6,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.0591056,
+					"longitude": -87.858852988
+				}
+			},
+			"id": "tenant1:doc:5c283decb5cf4600952eaf66dca5ba31",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 9000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "1S 2E 18 NE SW NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 9008,
+				"FormatTDName": "PALUXY",
+				"OperatorName": "LEE R A INCORPORATED",
+				"LeaseName": "INTL PAPER ETAL",
+				"CompDate": "1967-07-01T00:00:00",
+				"ElevationKb": 15,
+				"LLSrce": "IH",
+				"CurrentOperator": "LEE R A INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"RefElev": 15,
+				"ElevationCode": "KB",
+				"DrillerTd": 9011,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1967-05-31T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1452 FNL 1028 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1967-06-10T00:00:00",
+				"UWI": "01003200010000",
+				"API": "01003200010000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.964501941,
+					"longitude": -87.917178503
+				}
+			},
+			"id": "tenant1:doc:1fad0c7a82f34fdaa489d5788b4bfb49",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 20500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "6S 3E 10 SW SW NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "SMACKOVER",
+				"OperatorName": "ALLIED CHEMICAL CORPORATION",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "L CHANDLER UN 10-5",
+				"CompDate": "1978-07-21T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "ALLIED CHEMICAL CORP",
+				"FinalStatusCode": "8",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 19457,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1978-03-08T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "2320 FNL 470 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1978-03-18T00:00:00",
+				"UWI": "01003200240000",
+				"API": "01003200240000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "J&A",
+				"RefElev": 156,
+				"LatLong": {
+					"latitude": 30.538982453,
+					"longitude": -87.766203453
+				}
+			},
+			"id": "tenant1:doc:d8711daf8b3d45d590a1cae2d331e17c",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "A",
+				"ProjDepth": 7000,
+				"WellNum": "B-1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 15 E2 NE NW",
+				"IPProdFormName": "MASSIVE /SD/ TUSCALOOSA/",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199760000",
+				"OperatorName": "CLARKWIN OIL CORPORATION",
+				"LeaseName": "W H & CO OSWELL",
+				"CompDate": "1958-06-01T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5480,
+				"LaheeClass": "DO",
+				"PermitLicenseDate": "1957-09-20T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FNL 463 FEL CONGRESS QTR",
+				"LastActivityDate": "2017-05-01T00:00:00",
+				"SpudDate": "1957-09-30T00:00:00",
+				"UWI": "01003000080000",
+				"API": "01003000080000",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.22835089,
+					"longitude": -87.862787838
+				}
+			},
+			"id": "tenant1:doc:ee18fac760324cfc842b8baef6782c4f",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8750,
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "1N 2E 3",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8791,
+				"FormatTDName": "PALUXY",
+				"RegulatoryAPI": "01003200000000",
+				"OperatorName": "LEE R A INCORPORATED",
+				"ProjForm": "PALUXY",
+				"LeaseName": "SMITH ANNIE B",
+				"CompDate": "1966-12-20T00:00:00",
+				"ElevationKb": 81.3,
+				"LLSrce": "IH",
+				"CurrentOperator": "LEE R A INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "D",
+				"ElevationCode": "KB",
+				"DrillerTd": 8775,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1966-11-24T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 81.3,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1966-12-04T00:00:00",
+				"UWI": "01003000610000",
+				"API": "01003000610000",
+				"FieldName": "TENSAW LAKE",
+				"FinalStatus": "D&A-O",
+				"ElevationGr": 66,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.073562172,
+					"longitude": -87.859465553
+				}
+			},
+			"id": "tenant1:doc:e55851a70809419ebf760568710a7f07",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 2100,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 1,
+				"Location": "7S 4E 32 NW SW NW",
+				"IPProdFormName": "MIOCENE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FieldName": "FOLEY",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "MIOCENE",
+				"LeaseName": "IRWIN F L 32-5",
+				"CompDate": "1980-04-04T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PRODUCTION COMPANY",
+				"FinalStatusCode": "2",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "GR",
+				"DrillerTd": 2100,
+				"LaheeClass": "DG",
+				"PermitLicenseDate": "1980-02-25T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1800 FNL 100 FWL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1980-03-06T00:00:00",
+				"UWI": "01003200300000",
+				"API": "01003200300000",
+				"FormatTDName": "MIOCENE",
+				"FinalStatus": "GAS",
+				"ElevationGr": 69,
+				"RefElev": 69,
+				"LatLong": {
+					"latitude": 30.394235916,
+					"longitude": -87.699915978
+				}
+			},
+			"id": "tenant1:doc:389387bcd36f4b65b849c561372f7ee9",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 5,
+				"Location": "3N 2E 15 NE SE NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "U X",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"RegulatoryAPI": "01003199550002",
+				"OperatorName": "LATEX PETROLEUM CORPORATION",
+				"ProjForm": "TUSCALOOSA",
+				"Target": "DISP",
+				"LeaseName": "OSWELL C O ETAL",
+				"LLSrce": "IH",
+				"CurrentOperator": "LATEX PETROLEUM CORPORATION",
+				"FinalStatusCode": "D",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5475,
+				"LaheeClass": "I",
+				"CountyName": "BALDWIN",
+				"Footage": "300 FNL 300 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000190001",
+				"API": "01003000190001",
+				"FieldName": "CARLTON SOUTH",
+				"FinalStatus": "SWDOP",
+				"ElevationGr": 19,
+				"RefElev": 31,
+				"LatLong": {
+					"latitude": 31.225687514,
+					"longitude": -87.862277577
+				}
+			},
+			"id": "tenant1:doc:0627137b5fb946dcbbb18a94fbcf7821",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 5421,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 10 CSESE",
+				"IPProdFormName": "MASSIVE /SD/ TUSCALOOSA/",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D X",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199720000",
+				"OperatorName": "STANLEY RALPH",
+				"ProjForm": "MASSIVE /SD/ TUSCALOOSA/",
+				"Target": "OIL",
+				"LeaseName": "OSWELL WILLIAM H AND CHARLES O",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5500,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 660 FEL CONGRESS QTR QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003199720001",
+				"API": "01003199720001",
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"FinalStatus": "OIL-WO",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.232068828,
+					"longitude": -87.854924969
+				}
+			},
+			"id": "tenant1:doc:807cb5099a5e40b5b0e0a11dbe139252",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "3",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 2,
+				"Location": "3N 2E 15 NW NW NE",
+				"IPProdFormName": "TUSCALOOSA LOWER",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D X",
+				"FieldName": "CARLTON SOUTH",
+				"RegulatoryAPI": "01003199860001",
+				"OperatorName": "LATEX PETROLEUM CORPORATION",
+				"ProjForm": "TUSCALOOSA LOWER",
+				"Target": "OIL",
+				"LeaseName": "C O & W H OSWELL",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH CARLTON OPERATING CO LLC",
+				"FinalStatusCode": "1",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5545,
+				"LaheeClass": "DO",
+				"CountyName": "BALDWIN",
+				"Footage": "330 FNL 330 FWL CONGRESS QTR",
+				"OldestAgePenetratedCode": 605,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000070001",
+				"API": "01003000070001",
+				"FormatTDName": "TUSCALOOSA LOWER",
+				"FinalStatus": "OIL-WO",
+				"RefElev": 27,
+				"LatLong": {
+					"latitude": 31.229280521,
+					"longitude": -87.860247312
+				}
+			},
+			"id": "tenant1:doc:5988d23e8a3b4047aa3f26f081e0cba5",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 5600,
+				"WellNum": "4",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "3N 2E 11 C SE NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5569,
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"OperatorName": "HOUSTON OIL & MINERALS CORPORATION",
+				"ProjForm": "TUSCALOOSA LOWER /SPEARS/",
+				"LeaseName": "DANNER",
+				"CompDate": "1970-01-18T00:00:00",
+				"ElevationKb": 25,
+				"LLSrce": "IH",
+				"CurrentOperator": "HOUSTON OIL & MINERALS CORPORATION",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "D",
+				"ElevationCode": "KB",
+				"DrillerTd": 5530,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1969-12-01T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 25,
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1969-12-11T00:00:00",
+				"UWI": "01003200070000",
+				"API": "01003200070000",
+				"FieldName": "CARLTON SOUTH",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.239433198,
+					"longitude": -87.837802886
+				}
+			},
+			"id": "tenant1:doc:6fcb9b7b418f4dc5b8055397ed0d8e7c",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 7500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 12,
+				"Location": "2N 4E 16 SE SE NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6680,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199490000",
+				"OperatorName": "GULF OIL CORPORATION",
+				"LeaseName": "W M CARNEY MILL ETL",
+				"CompDate": "1950-01-12T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "GULF OIL CORPORATION",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"RefElev": 255,
+				"ElevationCode": "DF",
+				"DrillerTd": 6680,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1949-11-30T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "519 FSL 519 FEL CONGRESS QTR",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1949-12-10T00:00:00",
+				"UWI": "01003000130000",
+				"API": "01003000130000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-G",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.138998962,
+					"longitude": -87.668106068
+				}
+			},
+			"id": "tenant1:doc:ba836662121d46229e09a02933a0d7cf",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 5600,
+				"WellNum": "5",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "3N 2E 12 NW SW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"OperatorName": "HOUSTON OIL & MINERALS CORPORATION",
+				"ProjForm": "TUSCALOOSA LOWER /SPEARS/",
+				"LeaseName": "DANNER",
+				"CompDate": "1970-03-20T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "HOUSTON OIL & MINERALS CORPORATION",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 5585,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1969-11-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1980 FSL 660 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1969-11-22T00:00:00",
+				"UWI": "01003200060000",
+				"API": "01003200060000",
+				"FieldName": "CARLTON SOUTH",
+				"FinalStatus": "D&A-O",
+				"ElevationGr": 18,
+				"RefElev": 26,
+				"LatLong": {
+					"latitude": 31.235805555,
+					"longitude": -87.833553275
+				}
+			},
+			"id": "tenant1:doc:e0cc5cd458154288908ec043712cc75d",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 21000,
+				"WellNum": "2",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "7S 4E 32 NE NW SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 20322,
+				"FormatTDName": "SMACKOVER",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "ROY A AMOS 32-12",
+				"CompDate": "1979-02-02T00:00:00",
+				"ElevationKb": 36,
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PROD CO",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"RefElev": 36,
+				"ElevationCode": "KB",
+				"DrillerTd": 20353,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1978-08-26T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1990 FSL 1120 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1978-09-05T00:00:00",
+				"UWI": "01003200260000",
+				"API": "01003200260000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.390046172,
+					"longitude": -87.696698802
+				}
+			},
+			"id": "tenant1:doc:160ca03c8bb84601a58624c515f43659",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "1N 1E 13",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7640,
+				"FormatTDName": "DANTZLER",
+				"RegulatoryAPI": "01003199830000",
+				"OperatorName": "PLACID OIL COMPANY ET AL",
+				"LeaseName": "P A BRYANT ESTATE",
+				"CompDate": "1958-12-05T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "PLACID OIL COMPANY ET AL",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 7640,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1957-12-22T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 37,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1958-01-01T00:00:00",
+				"UWI": "01003000320000",
+				"API": "01003000320000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.049176464,
+					"longitude": -87.922905831
+				}
+			},
+			"id": "tenant1:doc:e95598737edc4826b09bbb9a493f0244",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 17000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 3 NW SW NE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "NORPHLET",
+				"OperatorName": "SHELL OIL COMPANY",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "WEFEL ESTATE",
+				"CompDate": "1972-09-13T00:00:00",
+				"ElevationKb": 286,
+				"LLSrce": "IH",
+				"CurrentOperator": "SHELL OIL CO",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 16276,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1972-07-15T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "53 FNL 661 FEL CONGRESS QTR QTR",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1972-07-25T00:00:00",
+				"UWI": "01003200120000",
+				"API": "01003200120000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"RefElev": 286,
+				"LatLong": {
+					"latitude": 31.169742504,
+					"longitude": -87.655669851
+				}
+			},
+			"id": "tenant1:doc:5d16ba93a01f4862a5797e549b5f3195",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "8S 4E 15 C NE SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8242,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199710000",
+				"OperatorName": "TEMPLE A R",
+				"LeaseName": "G E WALSH-N G EHLE",
+				"CompDate": "1956-04-16T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "TEMPLE A R",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 8238,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1956-03-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 64,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1956-03-22T00:00:00",
+				"UWI": "01003000490000",
+				"API": "01003000490000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.346433702,
+					"longitude": -87.651533007
+				}
+			},
+			"id": "tenant1:doc:a0c25401c7dd4eec9a8bb8ce4bcb915d",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "6S 5E 10 C SW SW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FormatTDName": "JACKSON",
+				"RegulatoryAPI": "01003010040000",
+				"OperatorName": "GIVENS H H",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "BRILL H MRS",
+				"CompDate": "1934-06-01T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "GIVENS H H",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY EOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "ES",
+				"DrillerTd": 2110,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1932-10-31T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "SPOT ONLY",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1932-11-10T00:00:00",
+				"UWI": "01003000120000",
+				"API": "01003000120000",
+				"FieldName": "UNNAMED",
+				"FinalStatus": "D&A",
+				"RefElev": 100,
+				"LatLong": {
+					"latitude": 30.533152845,
+					"longitude": -87.562573234
+				}
+			},
+			"id": "tenant1:doc:0eda2d53242c4985a27e5bd89188b3fb",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3N 3E 5 C SW NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5956,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199620000",
+				"OperatorName": "SUNNYLAND CONT COMPANY INCORPORATED",
+				"LeaseName": "FRANK F EARLE",
+				"CompDate": "1953-10-31T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SUNNYLAND CONT COMPANY INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 5950,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1953-10-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 25,
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1953-10-22T00:00:00",
+				"UWI": "01003000430000",
+				"API": "01003000430000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.255055514,
+					"longitude": -87.79941372
+				}
+			},
+			"id": "tenant1:doc:04926fe9855f4df1a1190b7201b73d54",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "3N 4E 7 C NE SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6360,
+				"FormatTDName": "MASSIVE /SD/ TUSCALOOSA/",
+				"RegulatoryAPI": "01003199630000",
+				"OperatorName": "SUNNYLAND CONT COMPANY INCORPORATED",
+				"LeaseName": "F EARLE ETAL",
+				"CompDate": "1953-12-01T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SUNNYLAND CONT COMPANY INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 6360,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1953-10-30T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 168,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1953-11-09T00:00:00",
+				"UWI": "01003000440000",
+				"API": "01003000440000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.237061317,
+					"longitude": -87.710781276
+				}
+			},
+			"id": "tenant1:doc:51ad968c18d74d68b8abeaaceadd1b47",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "7S 4E 15 C SE NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8528,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199800000",
+				"OperatorName": "TEMPLE A R",
+				"LeaseName": "F W SHERRILL ETAL",
+				"LLSrce": "IH",
+				"CurrentOperator": "TEMPLE A R",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 8514,
+				"LaheeClass": "WF",
+				"CountyName": "BALDWIN",
+				"RefElev": 87,
+				"OldestAgePenetratedCode": 602,
+				"CountryName": "UNITED STATES",
+				"UWI": "01003000470000",
+				"API": "01003000470000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.437783899,
+					"longitude": -87.651501381
+				}
+			},
+			"id": "tenant1:doc:58628d893acb43bb91073f43a70945ac",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6800,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 16 C SW SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6727,
+				"FormatTDName": "DANTZLER",
+				"RegulatoryAPI": "01003199870000",
+				"OperatorName": "HARRISON GEORGE M",
+				"LeaseName": "PATTERSON ALA OIL",
+				"CompDate": "1961-11-01T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "HARRISON GEORGE M",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 6726,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1961-10-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 158,
+				"LastActivityDate": "2014-07-14T00:00:00",
+				"SpudDate": "1961-10-22T00:00:00",
+				"UWI": "01003000160000",
+				"API": "01003000160000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.132108095,
+					"longitude": -87.672829646
+				}
+			},
+			"id": "tenant1:doc:d68876d8b56d4de38eececc7eec66f49",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 7800,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "7S 6E 10 W2 NE NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 7814,
+				"FormatTDName": "DANTZLER",
+				"RegulatoryAPI": "01003199850000",
+				"OperatorName": "WILLIAMS A DRLG CO",
+				"LeaseName": "TNS LD-TMBR-RESTOR",
+				"CompDate": "1959-02-27T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "WILLIAMS A DRLG CO",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"RefElev": 62,
+				"ElevationCode": "DF",
+				"DrillerTd": 7810,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1959-01-25T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FNL 560 FWL CONGRESS QTR QTR",
+				"LastActivityDate": "2014-07-14T00:00:00",
+				"SpudDate": "1959-02-04T00:00:00",
+				"UWI": "01003000510000",
+				"API": "01003000510000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.456294474,
+					"longitude": -87.45763381
+				}
+			},
+			"id": "tenant1:doc:7f091c638bc14a67b064fa3331493050",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "9S 1E 28",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 8245,
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"RegulatoryAPI": "01003199770000",
+				"OperatorName": "OBOYLE-HELDT ETAL",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "GULF BEACH LAND&DEV",
+				"CompDate": "1957-06-20T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "OBOYLE-HELDT ETAL",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 8245,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1957-05-17T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 12,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1957-05-27T00:00:00",
+				"UWI": "01003000280000",
+				"API": "01003000280000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.230265409,
+					"longitude": -87.974910009
+				}
+			},
+			"id": "tenant1:doc:759b12d13fc745b9ae79c6d34bf36002",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 19000,
+				"WellNum": "3",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "4S 5E 27 SW SE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 18612,
+				"FormatTDName": "SMACKOVER",
+				"OperatorName": "WATSON OIL CORPORATION",
+				"ProjForm": "SMACKOVER",
+				"LeaseName": "INTERNATL PAPER CO",
+				"CompDate": "1974-03-13T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "WATSON OIL CORP",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "UPPER JURASSIC",
+				"InitialClass": "WF",
+				"RefElev": 111,
+				"ElevationCode": "GR",
+				"DrillerTd": 18614,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1973-10-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 1980 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-03-31T00:00:00",
+				"SpudDate": "1973-10-22T00:00:00",
+				"UWI": "01003200170000",
+				"API": "01003200170000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 111,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.663904449,
+					"longitude": -87.553960047
+				}
+			},
+			"id": "tenant1:doc:401ebc2da057459cbc27349fb295981a",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "4S 3E 24 C NE SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 5532,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199480000",
+				"OperatorName": "SOHIO PETROLEUM COMPANY",
+				"ProjForm": "UNKNOWN",
+				"LeaseName": "TNNESSE COL IRN-RR",
+				"CompDate": "1948-07-21T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOHIO PETROLEUM COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"ElevationCode": "DF",
+				"DrillerTd": 8131,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1948-05-28T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 110,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1948-06-07T00:00:00",
+				"UWI": "01003000380000",
+				"API": "01003000380000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.6821112,
+					"longitude": -87.726937954
+				}
+			},
+			"id": "tenant1:doc:5296ce8fe23741a9a23bfeab5a7b27c6",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 10400,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3S 2E 40",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 10512,
+				"FormatTDName": "HOSSTON",
+				"RegulatoryAPI": "01003199990000",
+				"OperatorName": "PRUET CHESLEY-HUGHES D",
+				"LeaseName": "RP BAER 3-ST ALA",
+				"CompDate": "1966-11-19T00:00:00",
+				"ElevationKb": 19,
+				"LLSrce": "IH",
+				"CurrentOperator": "PRUET CHESLEY-HUGHES D",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COAHUILAN",
+				"InitialClass": "WF",
+				"ElevationCode": "KB",
+				"DrillerTd": 10502,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1966-10-07T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 19,
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1966-10-17T00:00:00",
+				"UWI": "01003000600000",
+				"API": "01003000600000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 30.801178525,
+					"longitude": -87.904892529
+				}
+			},
+			"id": "tenant1:doc:22d4c48681174a6297ce06c121b2848f",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 2350,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "9S 5E 9 C NE NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "JACKSON",
+				"RegulatoryAPI": "01003199590000",
+				"OperatorName": "SOUTH BALDWIN OIL DEV",
+				"LeaseName": "DR AMOS GARRETT",
+				"CompDate": "1952-03-30T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "SOUTH BALDWIN OIL DEV",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "TERTIARY EOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 3150,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1952-03-05T00:00:00",
+				"CountyName": "BALDWIN",
+				"RefElev": 19,
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1952-03-15T00:00:00",
+				"UWI": "01003000400000",
+				"API": "01003000400000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"LatLong": {
+					"latitude": 30.280228425,
+					"longitude": -87.575246577
+				}
+			},
+			"id": "tenant1:doc:8da46d86a79444339a229aaaa2483aa0",
+			"version": 1528235198219456,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"CurrentProductionStatus": "P",
+				"ProjDepth": 2100,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 1,
+				"Location": "7S 4E 31 SE NW SE",
+				"IPProdFormName": "MIOCENE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FieldName": "FOLEY",
+				"OperatorName": "AMOCO PRODUCTION COMPANY",
+				"ProjForm": "MIOCENE",
+				"LeaseName": "BARNER L R 31-10",
+				"CompDate": "1980-04-29T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "AMOCO PRODUCTION COMPANY",
+				"FinalStatusCode": "2",
+				"OldestAgePenetratedName": "TERTIARY MIOCENE",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "DF",
+				"DrillerTd": 2061,
+				"LaheeClass": "DG",
+				"PermitLicenseDate": "1980-03-20T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1800 FSL 1730 FEL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1980-03-30T00:00:00",
+				"UWI": "01003200310000",
+				"API": "01003200310000",
+				"FormatTDName": "MIOCENE",
+				"FinalStatus": "GAS",
+				"RefElev": 84,
+				"LatLong": {
+					"latitude": 30.389545248,
+					"longitude": -87.705739154
+				}
+			},
+			"id": "tenant1:doc:03029aa45aad4e8999bee5546c4195f0",
+			"version": 1528235232460748,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 11000,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "2N 4E 28 SE SW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 10921,
+				"FormatTDName": "HOSSTON",
+				"RegulatoryAPI": "01003199810000",
+				"OperatorName": "BROOKS ZACH",
+				"LeaseName": "PATTERSON ALA OIL",
+				"CompDate": "1958-09-01T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "BROOKS ZACH",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COAHUILAN",
+				"InitialClass": "WF",
+				"RefElev": 232,
+				"ElevationCode": "DF",
+				"DrillerTd": 10922,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1958-07-29T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "760 FNL 660 FEL CONGRESS QTR QTR",
+				"LastActivityDate": "2017-05-17T00:00:00",
+				"SpudDate": "1958-08-08T00:00:00",
+				"UWI": "01003000090000",
+				"API": "01003000090000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"ElevationGr": 221,
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.102346831,
+					"longitude": -87.676776274
+				}
+			},
+			"id": "tenant1:doc:712ee3919391403baa827b6ace813381",
+			"version": 1528235177006802,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 8950,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "1N 2E 4 SW NE NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 9108,
+				"FormatTDName": "PALUXY",
+				"RegulatoryAPI": "01003199930000",
+				"OperatorName": "LEE R A INCORPORATED",
+				"LeaseName": "BCON-MCMILLN VENER",
+				"CompDate": "1965-09-17T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "LEE R A INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"RefElev": 16,
+				"ElevationCode": "DF",
+				"DrillerTd": 9104,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1965-08-19T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "102 FNL 1420 FWL CONGRESS QTR",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1965-08-29T00:00:00",
+				"UWI": "01003000240000",
+				"API": "01003000240000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-O",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.085583734,
+					"longitude": -87.882124669
+				}
+			},
+			"id": "tenant1:doc:c157b285c6df45f1a2f9d43241d94671",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 10800,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 14,
+				"Location": "1N 2E 43 NE NE NE",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 10809,
+				"FormatTDName": "SLIGO",
+				"RegulatoryAPI": "01003199910000",
+				"OperatorName": "PRUET CHESLEY DRILLING COMPANY",
+				"LeaseName": "NELSON HEIRS UNIT",
+				"CompDate": "1965-01-03T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "PRUET CHESLEY DRILLING COMPANY",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COAHUILAN",
+				"InitialClass": "WF",
+				"RefElev": 120,
+				"ElevationCode": "DF",
+				"DrillerTd": 10804,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1964-11-12T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "330 FNL 345 FEL CONGRESS SECTION",
+				"LastActivityDate": "2014-07-10T00:00:00",
+				"SpudDate": "1964-11-22T00:00:00",
+				"UWI": "01003000370000",
+				"API": "01003000370000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A-OG",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.082798476,
+					"longitude": -87.851913973
+				}
+			},
+			"id": "tenant1:doc:229cc9acee7147a9a6f1fdc5cd4ab147",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 5600,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 13,
+				"Location": "3N 2E 11 SW NE",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "D",
+				"FormatTDName": "TUSCALOOSA LOWER /SPEARS/",
+				"OperatorName": "HOUSTON OIL & MINERALS CORPORATION",
+				"ProjForm": "TUSCALOOSA LOWER /SPEARS/",
+				"LeaseName": "DANNER",
+				"CompDate": "1971-04-28T00:00:00",
+				"ElevationKb": 26,
+				"LLSrce": "IH",
+				"CurrentOperator": "HOUSTON OIL & MINERALS CORPORATION",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS GULFIAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 5610,
+				"LaheeClass": "D",
+				"PermitLicenseDate": "1969-09-26T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "3240 FSL 2130 FEL CONGRESS SECTION",
+				"LastActivityDate": "2017-04-19T00:00:00",
+				"SpudDate": "1969-10-06T00:00:00",
+				"UWI": "01003200050000",
+				"API": "01003200050000",
+				"FieldName": "CARLTON SOUTH",
+				"FinalStatus": "D&A-O",
+				"ElevationGr": 18,
+				"RefElev": 26,
+				"LatLong": {
+					"latitude": 31.239217119,
+					"longitude": -87.842479412
+				}
+			},
+			"id": "tenant1:doc:9bca0930a5a847fc842a31eaf68f3aba",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 10500,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "5S 4E 18 SW NW",
+				"Basin": "GULF COAST BASIN",
+				"InitialClass": "WF",
+				"FormatTDName": "CRETACEOUS LOWER",
+				"OperatorName": "RUSH OIL COMPANY INCORPORATED",
+				"ProjForm": "CRETACEOUS LOWER",
+				"LeaseName": "RUBE CHILDRESS",
+				"CompDate": "1969-02-23T00:00:00",
+				"ElevationKb": 174,
+				"LLSrce": "IH",
+				"CurrentOperator": "RUSH OIL COMPANY INCORPORATED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"HoleDirection": "VERTICAL",
+				"ElevationCode": "KB",
+				"DrillerTd": 10510,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1969-01-18T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "660 FSL 150 FWL CONGRESS QTR",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1969-01-28T00:00:00",
+				"UWI": "01003200030000",
+				"API": "01003200030000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"RefElev": 174,
+				"LatLong": {
+					"latitude": 30.612598436,
+					"longitude": -87.716357223
+				}
+			},
+			"id": "tenant1:doc:b8613131bb154db79d48aa438c2d5f25",
+			"version": 1528235213307223,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		},
+		{
+			"data": {
+				"ProjDepth": 6600,
+				"WellNum": "1",
+				"Source": "PI",
+				"State": "AL",
+				"MapSymbol": 10,
+				"Location": "3N 4E 13 SW NW",
+				"Basin": "GULF COAST BASIN",
+				"LogTD": 6481,
+				"FormatTDName": "CRETACEOUS LOWER",
+				"RegulatoryAPI": "01003199680000",
+				"OperatorName": "LARUE I P & FRED",
+				"LeaseName": "ALEXANDER",
+				"CompDate": "1955-02-04T00:00:00",
+				"LLSrce": "IH",
+				"CurrentOperator": "LARUE I P & FRED",
+				"FinalStatusCode": "0",
+				"OldestAgePenetratedName": "CRETACEOUS COMANCHEAN",
+				"InitialClass": "WF",
+				"RefElev": 197,
+				"ElevationCode": "DF",
+				"DrillerTd": 6489,
+				"LaheeClass": "WF",
+				"PermitLicenseDate": "1955-01-13T00:00:00",
+				"CountyName": "BALDWIN",
+				"Footage": "1980 FNL 810 FWL CONGRESS SECTION",
+				"LastActivityDate": "2017-02-01T00:00:00",
+				"SpudDate": "1955-01-23T00:00:00",
+				"UWI": "01003000210000",
+				"API": "01003000210000",
+				"FieldName": "WILDCAT",
+				"FinalStatus": "D&A",
+				"HoleDirection": "VERTICAL",
+				"LatLong": {
+					"latitude": 31.22596405,
+					"longitude": -87.630031877
+				}
+			},
+			"id": "tenant1:doc:ff9b0b112d0c4022932d5ff29fcf9510",
+			"version": 1528235184593349,
+			"kind": "tenant1:ihs:well:1.0.0",
+			"acl": {
+				"viewers": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				],
+				"owners": [
+					"data.test.search.ihs@tenant1.evd.cloud.slb-ds.com"
+				]
+			},
+			"legal": {
+				"legaltags": [
+					"tenant1-dps-search-ingestion"
+				],
+				"otherRelevantDataCountries": [
+					"US"
+				],
+				"status": "compliant"
+			}
+		}
+	]
+}
